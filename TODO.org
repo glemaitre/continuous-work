@@ -1,0 +1,135 @@
+* Parietal
+
+** Data augmentation for brain connectivity
+
+*** TODO Search article regarding the topic
+*** TODO Read the literature
+*** TODO Make a short review regarding the topic
+*** DONE Check the data with Mehdi
+    CLOSED: [2017-04-20 jue 16:48]
+*** DONE Setup the plan for the future research
+    CLOSED: [2017-04-20 jue 16:48]
+*** TODO Read about importance sampling
+
+** Cam-CAN dataset
+
+*** TODO Write loader for Cam-CAN with Bunch files.
+*** TODO Load temporal connectivity
+
+** Administration
+
+*** DONE Apply for internal funding for post-doc
+    CLOSED: [2017-04-17 lun 23:16]
+*** DONE Ask for reimbursement of navigo pass
+    CLOSED: [2017-04-19 mié 11:53]
+*** DONE Check with Tiffany for the car registration for the retreat
+    CLOSED: [2017-04-21 ven. 01:04]
+**** DONE Make the photocopy of the papers.
+     CLOSED: [2017-04-21 ven. 01:04]
+
+* CDS
+
+** Institut Pasteur
+
+*** TODO Meeting for the RAMP the 26/04/2017
+
+** Lypsys
+
+*** TODO Decide the development of the work force for the barebone task
+*** TODO Develop barebone applications
+*** TODO Decide date for software carpentry and content
+
+** scikit-learn
+
+*** Sprint
+
+**** TODO Obtain the invoice from Inria
+**** TODO Contact La Paillasse to book the room for Saturday/Sunday
+**** TODO Contact Tiffany for the mission and put in relation with Andy / Vlad / possibly Jan
+**** TODO Announce the sprint the internal / external mailing list
+
+*** Tree implementation
+
+**** TODO Make a proper profiling for XGBoost, LightGBM, and FastBDT
+
+***** DONE Install all library in release mode
+      CLOSED: [2017-04-19 mié 19:47]
+***** TODO Remake the benchmark on cover-type and Higgs (all and /10)
+***** TODO Store the results
+
+**** TODO Check the xgboost implementation
+**** TODO Profiling of the xgboost implementation
+**** TODO Check the lightgbm implementation
+**** TODO Profiling the lightgbm implementation
+
+*** Pipeline refactoring
+
+**** TODO Ask Olivier to know what Joel is thinking or find a possible solution
+
+*** Quantile transformer
+
+**** DONE Change beginning of narrative documentation
+     CLOSED: [2017-04-20 jue 15:54]
+**** DONE Fix figure layout
+     CLOSED: [2017-04-19 mié 15:54]
+
+*** Reviews of PR
+
+* OCT project
+
+** TODO review the paper of BEO
+
+* Prostate project
+
+** EMBC
+
+*** TODO Finalize paper for 28/04
+
+** Normalization of DCE-MRI
+
+*** TODO Resend the paper to IEEE Journal of Biomedical and Health Informatics
+*** TODO Plan with Sik what to do to handle the data from Girona
+
+** Complete CAD framework
+
+*** TODO Compute the statistical test for the different experiment
+*** TODO Put the article into format to submit to a journal
+
+** Book chapter
+
+*** TODO Put the chapter into the IEEE format
+*** TODO Include our results of the last chapter inside the state of the art
+
+* Cycling project
+
+** Determination of MPA
+
+*** TODO Review the articles from Cedric
+*** TODO Draft a state-of-the-art
+*** TODO Check the plot and decide where to go from our data
+
+* FIC 2017
+
+** Presentation of the 24th of April
+
+*** TODO Check the numbers --- users + potential market --- for the software part
+
+* imbalanced-learn
+
+** Generalization of Easy Ensemble
+
+*** TODO Implementation roadmap
+
+- [ ] Create the meta-estimator;
+- [ ] Create a benchmark file using the `Pipeline` with cache -> we need to merge this PR I think;
+- [ ] Evaluate a Balanced Random Forest using different under-sampling methods;
+- [ ] Evaluate multiple combination of under-sampling and estimator;
+- [ ] Store the prediction such that we can easily compute any metric;
+- [ ] Choose metrics and plot to show. Probably a win-loss-tie matrix could be nice on the different benchmarks.
+
+*** TODO Writing article
+
+* Miscellaneous
+
+** DONE Review paper from Academic Radiology
+   CLOSED: [2017-04-18 mar 13:48]

@@ -1,0 +1,21 @@
+Log of activities
+-----------------
+
+* Meeting 18/04/2017
+
+** DONE Apply for post-doc position
+** DONE Addressed comments for PR regarding QuantileTransformer
+** DONE Couple of issues in scikit-learn
+** TODO Investigate literature on data augmentation in the brain
+** TODO Check the data with Mehdi
+** TODO Solve the invoice issue with the Inria and Alex
+** TODO Make profiling of XGBoost and a clear graph of the working pipeline
+** TODO Finish the slides for the FIC 2017
+** TODO Retreat planning -> Check with Tiffany for the car insurance
+** TODO Finalize QuantileTransformer
+
+* Meeting 25/04/2017
+
+** DONE Make review for Academic Radiology
+** DONE Finalize QuantileTransformer
+** TODO RAMP meeting 26/04/2017
