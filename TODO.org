@@ -75,6 +75,8 @@
 
 *** Reviews of PR
 
+**** TODO Review PR #8698
+
 * OCT project
 
 ** TODO review the paper of BEO
@@ -108,12 +110,6 @@
 *** TODO Draft a state-of-the-art
 *** TODO Check the plot and decide where to go from our data
 
-* FIC 2017
-
-** Presentation of the 24th of April
-
-*** TODO Check the numbers --- users + potential market --- for the software part
-
 * imbalanced-learn
 
 ** Generalization of Easy Ensemble
@@ -133,3 +129,10 @@
 
 ** DONE Review paper from Academic Radiology
    CLOSED: [2017-04-18 mar 13:48]
+
+* FIC 2017
+
+** Presentation of the 24th of April
+
+*** DONE Check the numbers --- users + potential market --- for the software part
+    CLOSED: [2017-04-21 ven. 14:22]
