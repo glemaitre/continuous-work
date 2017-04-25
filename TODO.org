@@ -35,6 +35,7 @@
 
 ** Lypsys
 
+*** TODO Meeting the 25/04/2017
 *** TODO Decide the development of the work force for the barebone task
 *** TODO Develop barebone applications
 *** TODO Decide date for software carpentry and content
@@ -43,10 +44,15 @@
 
 *** Sprint
 
-**** TODO Obtain the invoice from Inria
+**** DONE Obtain the invoice from Inria
+     CLOSED: [2017-04-24 lun. 13:53]
+**** DONE Contact Tiffany for the mission and put in relation with Andy / Vlad / possibly Jan
+     CLOSED: [2017-04-24 lun. 13:54]
+**** DONE Announce the sprint the internal / external mailing list
+     CLOSED: [2017-04-24 lun. 14:26]
+**** DONE Write an email to PARIETAL regarding the sprint
+     CLOSED: [2017-04-24 lun. 14:25]
 **** TODO Contact La Paillasse to book the room for Saturday/Sunday
-**** TODO Contact Tiffany for the mission and put in relation with Andy / Vlad / possibly Jan
-**** TODO Announce the sprint the internal / external mailing list
 
 *** Tree implementation
 

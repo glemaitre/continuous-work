@@ -18,4 +18,13 @@ Log of activities
 
 ** DONE Make review for Academic Radiology
 ** DONE Finalize QuantileTransformer
+** DONE Solve the issue with the invoice of scikit-learn
+** DONE Create an entry in the Wiki of scikit-learn
+** DONE Start to check the venue of Andreas and Vlad for the sprint
+** DONE Send an email to the external mailing list of scikit-learn for the sprint
+** DONE Check the data with Mehdi
+** DONE Started to create some loader for the Cam-CAN dataset
 ** TODO RAMP meeting 26/04/2017
+** TODO Ask to people to add their availability for the sprint
+** TODO Reserve la Paillasse for the 10/06/2017
+** TODO Continuing working on the profiling of the histogram implementation of the trees
