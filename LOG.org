@@ -6,25 +6,48 @@ Log of activities
 ** DONE Apply for post-doc position
 ** DONE Addressed comments for PR regarding QuantileTransformer
 ** DONE Couple of issues in scikit-learn
+
 ** TODO Investigate literature on data augmentation in the brain
 ** TODO Check the data with Mehdi
 ** TODO Solve the invoice issue with the Inria and Alex
 ** TODO Make profiling of XGBoost and a clear graph of the working pipeline
 ** TODO Finish the slides for the FIC 2017
 ** TODO Retreat planning -> Check with Tiffany for the car insurance
-** TODO Finalize QuantileTransformer
 
 * Meeting 25/04/2017
 
 ** DONE Make review for Academic Radiology
-** DONE Finalize QuantileTransformer
+
 ** DONE Solve the issue with the invoice of scikit-learn
 ** DONE Create an entry in the Wiki of scikit-learn
 ** DONE Start to check the venue of Andreas and Vlad for the sprint
 ** DONE Send an email to the external mailing list of scikit-learn for the sprint
+** DONE Ask to people to add their availability for the sprint
+
 ** DONE Check the data with Mehdi
 ** DONE Started to create some loader for the Cam-CAN dataset
+
+** TODO Extract the temporal series for Cam-CAN
 ** TODO RAMP meeting 26/04/2017
-** TODO Ask to people to add their availability for the sprint
 ** TODO Reserve la Paillasse for the 10/06/2017
 ** TODO Continuing working on the profiling of the histogram implementation of the trees
+** TODO Finalize QuantileTransformer
+
+* Meeting 02/05/2017
+
+** TODO Plan meeting with Sana and Ali
+** TODO RAMP meeting 26/04/2017
+** TODO Reserve la Paillasse for the 10/06/2017
+
+** DONE Extract the temporal series for Cam-CAN
+   CLOSED: [2017-04-27 jeu. 18:54]
+** DONE Extract connectivity Cam-CAN
+   CLOSED: [2017-04-27 jeu. 18:54]
+** TODO Extract phenotype data
+** TODO Make unit tests
+
+** TODO Continuing working on the profiling of the histogram implementation of the trees
+** TODO Finalize QuantileTransformer
+
+** DONE Finalize paper for 28/04
+   CLOSED: [2017-04-27 jeu. 18:57]
