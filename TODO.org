@@ -19,8 +19,10 @@
     CLOSED: [2017-04-26 mer. 00:17]
 *** DONE Connectivity extraction and script
     CLOSED: [2017-04-27 jeu. 18:57]
-*** TODO Write unit tests
-*** TODO Write code and script temporal connectivity
+*** DONE Write unit tests
+    CLOSED: [2017-04-28 ven. 18:09]
+*** DONE Write code and script temporal connectivity
+    CLOSED: [2017-04-28 ven. 18:09]
 
 
 ** Administration
@@ -31,8 +33,9 @@
     CLOSED: [2017-04-19 mié 11:53]
 *** DONE Check with Tiffany for the car registration for the retreat
     CLOSED: [2017-04-21 ven. 01:04]
-**** DONE Make the photocopy of the papers.
+*** DONE Make the photocopy of the papers.
      CLOSED: [2017-04-21 ven. 01:04]
+*** TODO Ask to buy the book of Andreas -> 2 copies
 
 * CDS
 
@@ -57,6 +60,7 @@
     CLOSED: [2017-04-25 mar. 19:17]
 *** DONE Write to Sana
     CLOSED: [2017-04-26 mer. 09:53]
+*** TODO Plan meeting with Sana and Ali
 *** TODO Make a need assessment precisely
 *** TODO Decide the development of the work force for the barebone task
 *** TODO Develop barebone applications
@@ -81,8 +85,10 @@
 **** Information regarding the flight and train ticket:
      - Andreas: train 4-14
      - Vlad: plane 4-14
-     - Manoj: plane 5-12
 
+*** PyParis
+
+*** TODO Make presentation 20 minutes on imbalanced-learn
 
 *** Tree implementation
 
@@ -127,6 +133,8 @@
 
 ** Normalization of DCE-MRI
 
+*** DONE Change to IEEE template
+    CLOSED: [2017-04-29 sam. 18:14]
 *** TODO Resend the paper to IEEE Journal of Biomedical and Health Informatics
 *** TODO Plan with Sik what to do to handle the data from Girona
 
@@ -167,11 +175,4 @@
 
 ** DONE Review paper from Academic Radiology
    CLOSED: [2017-04-18 mar 13:48]
-** TODO Review paper BIH
-
-* FIC 2017
-
-** Presentation of the 24th of April
-
-*** DONE Check the numbers --- users + potential market --- for the software part
-    CLOSED: [2017-04-21 ven. 14:22]
+** TODO Review paper BHI

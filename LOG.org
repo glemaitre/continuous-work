@@ -33,21 +33,31 @@ Log of activities
 ** TODO Continuing working on the profiling of the histogram implementation of the trees
 ** TODO Finalize QuantileTransformer
 
-* Meeting 02/05/2017
+* Meeting 08/05/2017
 
-** TODO Plan meeting with Sana and Ali
-** TODO RAMP meeting 26/04/2017
-** TODO Reserve la Paillasse for the 10/06/2017
+** DONE RAMP meeting 26/04/2017 -> make a plan regarding the data processing
+   CLOSED: [2017-04-28 ven. 18:01]
 
 ** DONE Extract the temporal series for Cam-CAN
    CLOSED: [2017-04-27 jeu. 18:54]
 ** DONE Extract connectivity Cam-CAN
    CLOSED: [2017-04-27 jeu. 18:54]
-** TODO Extract phenotype data
-** TODO Make unit tests
+** DONE Extract phenotype data
+   CLOSED: [2017-04-29 sam. 18:15]
+** DONE Make a loader for the phenotype data
+   CLOSED: [2017-05-08 lun. 20:54]
+** DONE Make unit tests
+   CLOSED: [2017-05-08 lun. 20:54]
 
-** TODO Continuing working on the profiling of the histogram implementation of the trees
-** TODO Finalize QuantileTransformer
+** DONE Finalize QuantileTransformer
+   CLOSED: [2017-05-08 lun. 20:54]
 
-** DONE Finalize paper for 28/04
+** DONE Finalize paper for 28/04 for EMBC
    CLOSED: [2017-04-27 jeu. 18:57]
+
+** TODO Plan meeting with Sana and Ali
+** TODO Reserve la Paillasse for the 10/06/2017
+** TODO Continuing working on the profiling of the histogram implementation of the trees
+** TODO Submit the paper to IEEE BHI
+** TODO Call the bank
+** TODO Ask for Armine
