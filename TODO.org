@@ -64,7 +64,6 @@
 *** TODO Make a need assessment precisely
 *** TODO Decide the development of the work force for the barebone task
 *** TODO Develop barebone applications
-*** TODO Decide date for software carpentry and content
 
 ** scikit-learn
 
@@ -115,9 +114,14 @@
 **** DONE Fix figure layout
      CLOSED: [2017-04-19 mié 15:54]
 
+*** Make PRs
+
+**** TODO Change the error message in Pipeline
+
 *** Reviews of PR
 
-**** TODO Review PR #8698
+**** DONE Review PR #8698
+     CLOSED: [2017-05-10 mer. 10:37]
 
 * OCT project
 
