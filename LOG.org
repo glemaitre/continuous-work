@@ -55,9 +55,14 @@ Log of activities
 ** DONE Finalize paper for 28/04 for EMBC
    CLOSED: [2017-04-27 jeu. 18:57]
 
-** TODO Plan meeting with Sana and Ali
-** TODO Reserve la Paillasse for the 10/06/2017
+** DONE Plan meeting with Sana and Ali
+   CLOSED: [2017-05-12 ven. 00:56]
+** DONE Contact la Paillasse for the 10/06/2017
+   CLOSED: [2017-05-12 ven. 00:56]
 ** TODO Continuing working on the profiling of the histogram implementation of the trees
 ** TODO Submit the paper to IEEE BHI
-** TODO Call the bank
+** DONE Call the bank
+   CLOSED: [2017-05-12 ven. 00:56]
 ** TODO Ask for Armine
+** DONE PyParis registration
+   CLOSED: [2017-05-12 ven. 00:55]

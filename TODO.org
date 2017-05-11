@@ -60,7 +60,8 @@
     CLOSED: [2017-04-25 mar. 19:17]
 *** DONE Write to Sana
     CLOSED: [2017-04-26 mer. 09:53]
-*** TODO Plan meeting with Sana and Ali
+*** DONE Plan meeting with Sana and Ali
+    CLOSED: [2017-05-12 ven. 00:56]
 *** TODO Make a need assessment precisely
 *** TODO Decide the development of the work force for the barebone task
 *** TODO Develop barebone applications
@@ -79,7 +80,8 @@
      CLOSED: [2017-04-24 lun. 14:25]
 **** DONE Manoj ticket
      CLOSED: [2017-04-26 mer. 09:44]
-**** TODO Contact La Paillasse to book the room for Saturday/Sunday
+**** DONE Contact La Paillasse to book the room for Saturday/Sunday
+     CLOSED: [2017-05-12 ven. 00:56]
 
 **** Information regarding the flight and train ticket:
      - Andreas: train 4-14
@@ -87,6 +89,8 @@
 
 *** PyParis
 
+*** DONE Enrollment to PyParis
+    CLOSED: [2017-05-12 ven. 00:56]
 *** TODO Make presentation 20 minutes on imbalanced-learn
 
 *** Tree implementation
@@ -116,7 +120,10 @@
 
 *** Make PRs
 
-**** TODO Change the error message in Pipeline
+**** DONE Change the error message in Pipeline
+     CLOSED: [2017-05-12 ven. 00:36]
+**** DONE Change the two new examples -> Refer to #8851
+     CLOSED: [2017-05-12 ven. 00:36]
 
 *** Reviews of PR
 
