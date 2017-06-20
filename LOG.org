@@ -37,6 +37,13 @@ Log of activities
 
 ** DONE RAMP meeting 26/04/2017 -> make a plan regarding the data processing
    CLOSED: [2017-04-28 ven. 18:01]
+** DONE Plan meeting with Sana and Ali
+   CLOSED: [2017-05-12 ven. 00:56]
+** DONE Contact la Paillasse for the 10/06/2017
+   CLOSED: [2017-05-12 ven. 00:56]
+** DONE Make the poster for CDS course
+   CLOSED: [2017-05-15 lun. 15:01]
+
 
 ** DONE Extract the temporal series for Cam-CAN
    CLOSED: [2017-04-27 jeu. 18:54]
@@ -48,6 +55,11 @@ Log of activities
    CLOSED: [2017-05-08 lun. 20:54]
 ** DONE Make unit tests
    CLOSED: [2017-05-08 lun. 20:54]
+** DONE Finish up the retreat code and notebook
+   CLOSED: [2017-05-16 mar. 14:07]
+
+** DONE PyParis registration
+   CLOSED: [2017-05-12 ven. 00:55]
 
 ** DONE Finalize QuantileTransformer
    CLOSED: [2017-05-08 lun. 20:54]
@@ -55,14 +67,34 @@ Log of activities
 ** DONE Finalize paper for 28/04 for EMBC
    CLOSED: [2017-04-27 jeu. 18:57]
 
-** DONE Plan meeting with Sana and Ali
-   CLOSED: [2017-05-12 ven. 00:56]
-** DONE Contact la Paillasse for the 10/06/2017
-   CLOSED: [2017-05-12 ven. 00:56]
+** DONE Submit the paper to IEEE BHI
+   CLOSED: [2017-05-15 lun. 19:26]
+
+** DONE Review the paper for BHI
+   CLOSED: [2017-05-15 lun. 18:01]
+** DONE Ask for Armine
+   CLOSED: [2017-05-16 mar. 14:37]
+
+* Meeting 16/05/2017
+
+** DONE OMP on Cam-CAN
+   CLOSED: [2017-05-24 mer. 13:07]
+
+** DONE Finish up the workshop announcement CDS
+   CLOSED: [2017-05-24 mer. 13:05]
+** DONE Finalized Tickets US
+   CLOSED: [2017-05-24 mer. 13:05]
+** DONE Finalized La Paillasse booking
+   CLOSED: [2017-05-24 mer. 13:05]
+** TODO Book restaurant and bar
+
 ** TODO Continuing working on the profiling of the histogram implementation of the trees
-** TODO Submit the paper to IEEE BHI
-** DONE Call the bank
-   CLOSED: [2017-05-12 ven. 00:56]
-** TODO Ask for Armine
-** DONE PyParis registration
-   CLOSED: [2017-05-12 ven. 00:55]
+
+** DONE Nicolas Aunai -> temporal serie classification -> RAMP
+   CLOSED: [2017-05-24 mer. 17:56]
+** TODO Workshop insect detection -> RAMP
+** DONE Sharing the course CDS
+   CLOSED: [2017-05-30 mar. 14:10]
+** DONE Lypsis meeting
+   CLOSED: [2017-05-30 mar. 14:03]
+** TODO Meeting with Institut Pasteur -> we need an hard-drive

@@ -2,14 +2,23 @@
 
 ** Data augmentation for brain connectivity
 
-*** TODO Search article regarding the topic
-*** TODO Read the literature
-*** TODO Make a short review regarding the topic
+
 *** DONE Check the data with Mehdi
     CLOSED: [2017-04-20 jue 16:48]
 *** DONE Setup the plan for the future research
     CLOSED: [2017-04-20 jue 16:48]
+
+*** TODO Write short article regarding the results of the age prediction
+*** TODO Explain the baseline research
+
+*** TODO Plan the after Cam-CAN
+
+*** TODO Search article regarding the topic
+*** TODO Read the literature
+*** TODO Make a short review regarding the topic
+
 *** TODO Read about importance sampling
+
 
 ** Cam-CAN dataset
 
@@ -35,13 +44,16 @@
     CLOSED: [2017-04-21 ven. 01:04]
 *** DONE Make the photocopy of the papers.
      CLOSED: [2017-04-21 ven. 01:04]
-*** TODO Ask to buy the book of Andreas -> 2 copies
+*** DONE Ask to buy the book of Andreas -> 2 copies
+    CLOSED: [2017-05-24 mer. 18:01]
 
 * CDS
 
 ** Training course
 
-*** TODO Make an outline of the 2 days course
+*** DONE Make an outline of the 2 days course
+    CLOSED: [2017-05-16 mar. 14:40]
+*** TODO Finish up the workshop announcement CDS
 *** TODO Make a loop to the CDS
 *** TODO Prepare Python course 1 day
 *** TODO Prepare Software engineering 1 day
@@ -50,8 +62,7 @@
 
 *** DONE Meeting for the RAMP the 26/04/2017
     CLOSED: [2017-04-27 jeu. 18:51]
-*** TODO Meeting 17/04/2017 -> Quality check
-*** TODO Meeting 31/04/2017 -> Pre-processing done
+*** TODO Meeting 31/04/2017 -> Pre-processing done + Quality check
 *** TODO 01/07/2017 -> Hackathon + RAMP
 
 ** Lypsys
@@ -68,6 +79,11 @@
 
 ** scikit-learn
 
+** TODO Ask Loic for the profiling
+** TODO Ask Loic for the sphinx-gallery
+** TODO Ask Loic for the mac/windows virtual machine
+** TODO Ask Loic regarding the copybutton for copy pasting code snippet
+
 *** Sprint
 
 **** DONE Obtain the invoice from Inria
@@ -82,10 +98,7 @@
      CLOSED: [2017-04-26 mer. 09:44]
 **** DONE Contact La Paillasse to book the room for Saturday/Sunday
      CLOSED: [2017-05-12 ven. 00:56]
-
-**** Information regarding the flight and train ticket:
-     - Andreas: train 4-14
-     - Vlad: plane 4-14
+**** TODO See with Olivier for the restaurant of the saturday.
 
 *** PyParis
 
@@ -95,12 +108,15 @@
 
 *** Tree implementation
 
-**** TODO Make a proper profiling for XGBoost, LightGBM, and FastBDT
+**** DONE Make a proper profiling for XGBoost, LightGBM, and FastBDT
+     CLOSED: [2017-05-24 mer. 18:07]
 
 ***** DONE Install all library in release mode
       CLOSED: [2017-04-19 mié 19:47]
-***** TODO Remake the benchmark on cover-type and Higgs (all and /10)
-***** TODO Store the results
+***** DONE Remake the benchmark on cover-type and Higgs (all and /10)
+      CLOSED: [2017-05-24 mer. 18:00]
+***** DONE Store the results
+      CLOSED: [2017-05-24 mer. 18:00]
 
 **** TODO Check the xgboost implementation
 **** TODO Profiling of the xgboost implementation
@@ -113,22 +129,7 @@
 
 *** Quantile transformer
 
-**** DONE Change beginning of narrative documentation
-     CLOSED: [2017-04-20 jue 15:54]
-**** DONE Fix figure layout
-     CLOSED: [2017-04-19 mié 15:54]
-
-*** Make PRs
-
-**** DONE Change the error message in Pipeline
-     CLOSED: [2017-05-12 ven. 00:36]
-**** DONE Change the two new examples -> Refer to #8851
-     CLOSED: [2017-05-12 ven. 00:36]
-
-*** Reviews of PR
-
-**** DONE Review PR #8698
-     CLOSED: [2017-05-10 mer. 10:37]
+*** TODO Propose to add noise all the times ...
 
 * OCT project
 
@@ -146,7 +147,8 @@
 
 *** DONE Change to IEEE template
     CLOSED: [2017-04-29 sam. 18:14]
-*** TODO Resend the paper to IEEE Journal of Biomedical and Health Informatics
+*** DONE Resend the paper to IEEE Journal of Biomedical and Health Informatics
+    CLOSED: [2017-05-15 lun. 19:31]
 *** TODO Plan with Sik what to do to handle the data from Girona
 
 ** Complete CAD framework
@@ -186,4 +188,11 @@
 
 ** DONE Review paper from Academic Radiology
    CLOSED: [2017-04-18 mar 13:48]
-** TODO Review paper BHI
+** DONE Review paper BHI
+   CLOSED: [2017-05-15 lun. 19:31]
+
+** DONE public add on what to work for the sprint
+   CLOSED: [2017-06-01 jeu. 00:51]
+** DONE send last information regarding the sprint
+   CLOSED: [2017-06-01 jeu. 00:52]
+** TODO Send an email regarding the institut pasteur meeting
